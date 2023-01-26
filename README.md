@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdiwak
 - 👀 I’m interested in programming language
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python and flutter 
 - 💞️ I’m looking to collaborate on working on projects 
 - 📫 How to reach me abdiwak41@gmail.com
 
